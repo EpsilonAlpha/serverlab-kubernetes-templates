@@ -1,4 +1,4 @@
-FROM google/cloud-sdk:alpine
+FROM google/cloud-sdk:482.0.0-alpine
 
 ENV GOOGLE_PROJECT serverlab
 ENV GOOGLE_CLIENT_EMAIL shane.rainville@gmail.com
